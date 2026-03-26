@@ -1,0 +1,1 @@
+from pyfoam.application.icoFoam import icoFoam
